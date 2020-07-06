@@ -1,0 +1,22 @@
+{
+  "name": "kensoko-desktop",
+  "version": "1.0.0",
+  "description": "Kensoko Online Shop",
+  "author": "kensoko",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.11.0",
+    "@nuxtjs/bulma": "^1.2.1",
+    "bootstrap": "^4.5.0",
+    "bulma-carousel": "^4.0.4",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
